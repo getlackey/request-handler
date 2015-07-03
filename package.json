@@ -1,5 +1,5 @@
 {
-    "name": "request-handler",
+    "name": "lackey-request-handler",
     "version": "0.0.1",
     "description": "Express request handler for building clean APIs",
     "main": "index.js",
