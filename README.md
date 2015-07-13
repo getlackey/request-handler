@@ -38,7 +38,8 @@ var handlerOptions = {
     // max selectable fields
     select: 'id title author.email author.name author.group createdAt',
     // sort fields that are sortable
-    sort: 'id createdAd, title'
+    sort: 'id createdAd, title',
+    errorsView: 'errors'
 };
 
 router.get('/',
