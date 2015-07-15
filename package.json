@@ -1,6 +1,6 @@
 {
     "name": "lackey-request-handler",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Express request handler for building clean APIs",
     "main": "lib/index.js",
     "scripts": {
